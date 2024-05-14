@@ -1,0 +1,19 @@
+{
+  "files.exclude": {
+    "node_modules": true,
+    "public": true,
+    ".next": true,
+    "bun.lockb": true,
+    "package-lock.json": true,
+    "jsconfig.json": true,
+    "next.config.mjs": true,
+    "README.md": true,
+    ".gitignore": true,
+    "app\\favicon.ico": true,
+    "app\\globals.css": true,
+    "app\\page.module.css": true,
+    ".vscode": true,
+    "app\\layout.js": true,
+    "app\\page.js": true
+  }
+}
